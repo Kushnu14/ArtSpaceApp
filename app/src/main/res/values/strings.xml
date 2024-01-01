@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ArtSpaceApp</string>
+    <string name="Still_Life">Still Life</string>
+    <string name="S_Artist">Katy Mathew</string>
+    <string name="S_Year">(2014)</string>
+    <string name="Bridge">Man On Bridge</string>
+    <string name="B_Artist">Ramesh Shah</string>
+    <string name="B_Year">(2015)</string>
+    <string name="Prev">Prev</string>
+    <string name="next">Next</string>
+</resources>
